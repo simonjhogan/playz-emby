@@ -1,4 +1,9 @@
-﻿var ajax = new AJAX();
+﻿// Author: Simon J. Hogan
+// Modifed: 24/04/2016
+// Sith'ari Consulting Australia
+// --------------------------------------------
+
+var ajax = new AJAX();
 
 function AJAX() {};
 
